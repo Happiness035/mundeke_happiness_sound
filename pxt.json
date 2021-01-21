@@ -1,5 +1,5 @@
 {
-    "name": "mundeke_happiness_sound",
+    "name": "Sound challenges",
     "description": "",
     "dependencies": {
         "adafruit-circuit-playground-express": "*"
